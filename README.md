@@ -1,2 +1,0 @@
-# bcr
-Control de versiones
